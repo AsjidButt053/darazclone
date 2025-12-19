@@ -35,14 +35,6 @@ This application serves as a functional clone of a major e-commerce platform. It
 * **Authentication:** Firebase Auth
 * **State Management:** Provider / GetX / Bloc (Update this based on what you used)
 
-## 📸 Screenshots
-
-| Home Screen | Product Details | Cart | Admin Panel |
-|:---:|:---:|:---:|:---:|
-| <img src="assets/screenshots/home.png" width="200"> | <img src="assets/screenshots/detail.png" width="200"> | <img src="assets/screenshots/cart.png" width="200"> | <img src="assets/screenshots/admin.png" width="200"> |
-
-*(Note: Upload screenshots to an `assets/screenshots` folder in your repo to make these appear).*
-
 ## 🚀 Getting Started
 
 ### Prerequisites
