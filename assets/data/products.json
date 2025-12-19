@@ -1,0 +1,146 @@
+[
+  {
+    "id": "1",
+    "name": "Samsung Galaxy S23 Ultra",
+    "price": 89999.0,
+    "category": "Electronics",
+    "description": "The latest Samsung flagship smartphone with 200MP camera, Snapdragon 8 Gen 2 processor, and 5000mAh battery. Features a stunning 6.8-inch AMOLED display with 120Hz refresh rate.",
+    "image": "assets/images/samsung.png",
+    "stock": 15
+  },
+  {
+    "id": "2",
+    "name": "iPhone 15 Pro Max",
+    "price": 159999.0,
+    "category": "Electronics",
+    "description": "Apple's premium smartphone with A17 Pro chip, titanium design, and advanced camera system. Includes Dynamic Island and always-on display technology.",
+    "image": "assets/images/iphone.jpg",
+    "stock": 10
+  },
+  {
+    "id": "3",
+    "name": "Sony WH-1000XM5 Headphones",
+    "price": 34999.0,
+    "category": "Electronics",
+    "description": "Industry-leading noise cancelling wireless headphones with exceptional sound quality. 30-hour battery life and premium comfort.",
+    "image": "assets/images/headphone.png",
+    "stock": 25
+  },
+  {
+    "id": "4",
+    "name": "MacBook Pro 16-inch M3",
+    "price": 249999.0,
+    "category": "Electronics",
+    "description": "Powerful laptop with Apple M3 chip, 16GB RAM, and 512GB SSD. Perfect for professional work and creative tasks.",
+    "image": "assets/images/macbook.png",
+    "stock": 8
+  },
+  {
+    "id": "5",
+    "name": "Men's Casual Cotton Shirt",
+    "price": 1999.0,
+    "category": "Fashion",
+    "description": "Comfortable and stylish casual shirt made from premium cotton. Available in multiple colors and sizes. Perfect for everyday wear.",
+    "image": "assets/images/shirt.png",
+    "stock": 50
+  },
+  {
+    "id": "6",
+    "name": "Women's Summer Dress",
+    "price": 2999.0,
+    "category": "Fashion",
+    "description": "Elegant floral print summer dress with comfortable fit. Made from breathable fabric, perfect for warm weather.",
+    "image": "assets/images/dress.png",
+    "stock": 30
+  },
+  {
+    "id": "7",
+    "name": "Nike Air Max Sneakers",
+    "price": 8999.0,
+    "category": "Fashion",
+    "description": "Classic Nike Air Max sneakers with superior cushioning and style. Durable construction and comfortable fit for all-day wear.",
+    "image": "assets/images/nike.png",
+    "stock": 20
+  },
+  {
+    "id": "8",
+    "name": "Denim Jeans - Slim Fit",
+    "price": 3499.0,
+    "category": "Fashion",
+    "description": "Premium quality denim jeans with slim fit design. Comfortable stretch fabric and modern styling.",
+    "image": "assets/images/jeans.png",
+    "stock": 40
+  },
+  {
+    "id": "9",
+    "name": "Maybelline Lipstick Set",
+    "price": 1499.0,
+    "category": "Beauty",
+    "description": "Set of 3 long-lasting lipsticks in popular shades. Moisturizing formula with rich color payoff.",
+    "image": "assets/images/lipstick.png",
+    "stock": 60
+  },
+  {
+    "id": "10",
+    "name": "Face Cream - Anti Aging",
+    "price": 2499.0,
+    "category": "Beauty",
+    "description": "Advanced anti-aging face cream with natural ingredients. Reduces wrinkles and improves skin texture.",
+    "image": "assets/images/cream.png",
+    "stock": 35
+  },
+  {
+    "id": "11",
+    "name": "Hair Dryer Professional",
+    "price": 4999.0,
+    "category": "Beauty",
+    "description": "Professional-grade hair dryer with multiple heat settings and ionic technology. Fast drying with minimal heat damage.",
+    "image": "assets/images/dryer.png",
+    "stock": 18
+  },
+  {
+    "id": "12",
+    "name": "Perfume - Oriental Essence",
+    "price": 5999.0,
+    "category": "Beauty",
+    "description": "Luxury perfume with long-lasting oriental fragrance. Premium quality with elegant packaging.",
+    "image": "assets/images/perfume.png",
+    "stock": 22
+  },
+  {
+    "id": "13",
+    "name": "Sofa Set - 3 Seater",
+    "price": 45999.0,
+    "category": "Home",
+    "description": "Comfortable 3-seater sofa set with premium fabric upholstery. Modern design perfect for living room.",
+    "image": "assets/images/sofa.png",
+    "stock": 5
+  },
+  {
+    "id": "14",
+    "name": "Dining Table Set",
+    "price": 35999.0,
+    "category": "Home",
+    "description": "Elegant dining table set for 6 people. Made from solid wood with durable finish.",
+    "image": "assets/images/table.png",
+    "stock": 7
+  },
+  {
+    "id": "15",
+    "name": "LED Smart TV 55 inch",
+    "price": 54999.0,
+    "category": "Home",
+    "description": "4K Ultra HD Smart TV with built-in streaming apps. HDR support and stunning picture quality.",
+    "image": "assets/images/tv.png",
+    "stock": 12
+  },
+  {
+    "id": "16",
+    "name": "Kitchen Blender",
+    "price": 6999.0,
+    "category": "Home",
+    "description": "Powerful 1000W blender with multiple speed settings. Perfect for smoothies, soups, and more.",
+    "image": "assets/images/blender.png",
+    "stock": 28
+  }
+]
